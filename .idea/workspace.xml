@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0555ff18-77cf-492d-b53c-2582ad311283" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583058142584</updated>
-      <workItem from="1583059750900" duration="60000" />
+      <workItem from="1583059750900" duration="517000" />
+      <workItem from="1583060903737" duration="24000" />
     </task>
     <servers />
   </component>
@@ -64,21 +66,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1583061158227">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1583061898901">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583061158227" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1583061158227">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583061898901" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1583061898901">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583061158227" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1583061158227">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583061898901" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1583061898900">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583061158227" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1583061158227">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583061898900" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1583061898901">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583061158227" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583061898901" />
+    <state x="123" y="40" key="MergeDialog" timestamp="1583061886614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="123" y="40" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1583061886614" />
+    <state x="430" y="34" key="MultipleFileMergeDialog" timestamp="1583061886619">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="34" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1583061886619" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1583061643063">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583061643063" />
   </component>
 </project>
