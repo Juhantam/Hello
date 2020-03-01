@@ -2,7 +2,7 @@ public class Hello {
 
     public static void main(String[] args) {
 
-        System.out.println("friend was here");
+        System.out.println("Hello, conflict");
 
     }
 
